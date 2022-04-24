@@ -1,0 +1,10 @@
+24/04/2022
+Sergi Caparrós
+
+
+Programa d'exemple pel Div Games Studio (MS-DOS)
+
+Codi Font: BILLAR.prg
+Executable: EXE\BILLAR.EXE
+
+
